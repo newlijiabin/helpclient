@@ -35,7 +35,7 @@ npm run build
 ```
 导出的文件在dist目录下<br>
 3.进入dist目录有两个文件 dist和index.html,将index.html拖到dist中。<br>
-4.讲dist目录下的dist拖到服务端public目录下<br>
+4.将dist目录下的dist拖到服务端public目录下<br>
 访问服务端 "https://api.demo.com/dist"<br>
 #### 交流
 微信号:landalfyzy<br>
